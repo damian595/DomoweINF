@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\kodnakomputerze\\fkwadrat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C637AE81-52D8-40AF-928E-EB1C99C1DE66}|fkwadrat\\fkwadrat.vcxproj|C:\\Users\\Damian\\Desktop\\kodnakomputerze\\fkwadrat\\fkwadrat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C637AE81-52D8-40AF-928E-EB1C99C1DE66}|fkwadrat\\fkwadrat.vcxproj|solutionrelative:fkwadrat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\kodnakomputerze\\fkwadrat\\fkwadrat\\main.cpp",
+              "RelativeDocumentMoniker": "fkwadrat\\main.cpp",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\kodnakomputerze\\fkwadrat\\fkwadrat\\main.cpp",
+              "RelativeToolTip": "fkwadrat\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T14:11:03.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
